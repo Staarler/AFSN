@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-190,
+				-302
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Meme Idle Dance"
+		},
+		{
+			"offsets": [
+				-169,
+				-300
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Meme Left"
+		},
+		{
+			"offsets": [
+				-189,
+				-343
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Meme Right"
+		},
+		{
+			"offsets": [
+				-214,
+				-305
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Meme Down"
+		},
+		{
+			"offsets": [
+				-170,
+				-257
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Meme Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Meme_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "meme",
+	"flip_x": false,
+	"healthbar_colors": [
+		225,
+		225,
+		225
+	],
+	"camera_position": [
+		130,
+		380
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

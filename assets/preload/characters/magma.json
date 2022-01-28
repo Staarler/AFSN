@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				360,
+				-70
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Magma Idle Dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				85,
+				-93
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Magma Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				321,
+				15
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Magma Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				-149
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Magma Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				344,
+				-130
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Magma Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Magma_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "magma",
+	"flip_x": false,
+	"healthbar_colors": [
+		216,
+		255,
+		42
+	],
+	"camera_position": [
+		-410,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

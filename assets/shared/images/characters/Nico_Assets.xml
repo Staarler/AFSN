@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Nico.png"><SubTexture name="Nico Down0000" x="0" y="0" width="310" height="234" frameX="0" frameY="0" frameWidth="310" frameHeight="234" />
+<SubTexture name="Nico Down0001" x="310" y="0" width="318" height="240" frameX="0" frameY="0" frameWidth="318" frameHeight="240" />
+<SubTexture name="Nico Down0002" x="628" y="0" width="329" height="240" frameX="0" frameY="0" frameWidth="329" frameHeight="240" />
+<SubTexture name="Nico Down0003" x="957" y="0" width="318" height="240" frameX="0" frameY="0" frameWidth="318" frameHeight="240" />
+<SubTexture name="Nico Down0004" x="1275" y="0" width="321" height="240" frameX="0" frameY="0" frameWidth="321" frameHeight="240" />
+<SubTexture name="Nico Down0005" x="1596" y="0" width="318" height="240" frameX="0" frameY="0" frameWidth="318" frameHeight="240" />
+<SubTexture name="Nico Down0006" x="1914" y="0" width="318" height="240" frameX="0" frameY="0" frameWidth="318" frameHeight="240" />
+<SubTexture name="Nico Down0007" x="2232" y="0" width="318" height="240" frameX="0" frameY="0" frameWidth="318" frameHeight="240" />
+<SubTexture name="Nico Down0008" x="2550" y="0" width="318" height="240" frameX="0" frameY="0" frameWidth="318" frameHeight="240" />
+<SubTexture name="Nico Down0009" x="0" y="240" width="318" height="240" frameX="0" frameY="0" frameWidth="318" frameHeight="240" />
+<SubTexture name="Nico Down0010" x="318" y="240" width="324" height="240" frameX="0" frameY="0" frameWidth="324" frameHeight="240" />
+<SubTexture name="Nico Down0011" x="642" y="240" width="318" height="240" frameX="0" frameY="0" frameWidth="318" frameHeight="240" />
+<SubTexture name="Nico Down0012" x="960" y="240" width="318" height="240" frameX="0" frameY="0" frameWidth="318" frameHeight="240" />
+<SubTexture name="Nico Down0013" x="1278" y="240" width="318" height="240" frameX="0" frameY="0" frameWidth="318" frameHeight="240" />
+<SubTexture name="Nico Down0014" x="1596" y="240" width="318" height="240" frameX="0" frameY="0" frameWidth="318" frameHeight="240" />
+<SubTexture name="Nico Down0015" x="1914" y="240" width="318" height="240" frameX="0" frameY="0" frameWidth="318" frameHeight="240" />
+<SubTexture name="Nico Idle Dance0000" x="2232" y="240" width="347" height="258" frameX="0" frameY="0" frameWidth="347" frameHeight="258" />
+<SubTexture name="Nico Idle Dance0001" x="2579" y="240" width="347" height="258" frameX="0" frameY="0" frameWidth="347" frameHeight="258" />
+<SubTexture name="Nico Idle Dance0002" x="0" y="498" width="338" height="274" frameX="0" frameY="0" frameWidth="338" frameHeight="274" />
+<SubTexture name="Nico Idle Dance0003" x="338" y="498" width="338" height="274" frameX="0" frameY="0" frameWidth="338" frameHeight="274" />
+<SubTexture name="Nico Idle Dance0004" x="676" y="498" width="338" height="274" frameX="0" frameY="0" frameWidth="338" frameHeight="274" />
+<SubTexture name="Nico Idle Dance0005" x="1014" y="498" width="347" height="279" frameX="0" frameY="0" frameWidth="347" frameHeight="279" />
+<SubTexture name="Nico Idle Dance0006" x="1361" y="498" width="347" height="279" frameX="0" frameY="0" frameWidth="347" frameHeight="279" />
+<SubTexture name="Nico Idle Dance0007" x="1708" y="498" width="347" height="279" frameX="0" frameY="0" frameWidth="347" frameHeight="279" />
+<SubTexture name="Nico Idle Dance0008" x="2055" y="498" width="347" height="279" frameX="0" frameY="0" frameWidth="347" frameHeight="279" />
+<SubTexture name="Nico Idle Dance0009" x="2402" y="498" width="347" height="279" frameX="0" frameY="0" frameWidth="347" frameHeight="279" />
+<SubTexture name="Nico Idle Dance0010" x="2749" y="498" width="347" height="279" frameX="0" frameY="0" frameWidth="347" frameHeight="279" />
+<SubTexture name="Nico Idle Dance0011" x="0" y="777" width="347" height="279" frameX="0" frameY="0" frameWidth="347" frameHeight="279" />
+<SubTexture name="Nico Idle Dance0012" x="347" y="777" width="347" height="279" frameX="0" frameY="0" frameWidth="347" frameHeight="279" />
+<SubTexture name="Nico Idle Dance0013" x="694" y="777" width="347" height="279" frameX="0" frameY="0" frameWidth="347" frameHeight="279" />
+<SubTexture name="Nico Idle Dance0014" x="1041" y="777" width="347" height="279" frameX="0" frameY="0" frameWidth="347" frameHeight="279" />
+<SubTexture name="Nico Idle Dance0015" x="1388" y="777" width="347" height="279" frameX="0" frameY="0" frameWidth="347" frameHeight="279" />
+<SubTexture name="Nico Idle Dance0016" x="1735" y="777" width="347" height="279" frameX="0" frameY="0" frameWidth="347" frameHeight="279" />
+<SubTexture name="Nico Idle Dance0017" x="2082" y="777" width="347" height="279" frameX="0" frameY="0" frameWidth="347" frameHeight="279" />
+<SubTexture name="Nico Idle Dance0018" x="2429" y="777" width="347" height="279" frameX="0" frameY="0" frameWidth="347" frameHeight="279" />
+<SubTexture name="Nico Idle Dance0019" x="2776" y="777" width="347" height="279" frameX="0" frameY="0" frameWidth="347" frameHeight="279" />
+<SubTexture name="Nico Left0000" x="0" y="1056" width="474" height="314" frameX="0" frameY="0" frameWidth="474" frameHeight="314" />
+<SubTexture name="Nico Left0001" x="474" y="1056" width="477" height="314" frameX="0" frameY="0" frameWidth="477" frameHeight="314" />
+<SubTexture name="Nico Left0002" x="951" y="1056" width="477" height="318" frameX="0" frameY="0" frameWidth="477" frameHeight="318" />
+<SubTexture name="Nico Left0003" x="1428" y="1056" width="473" height="318" frameX="0" frameY="0" frameWidth="473" frameHeight="318" />
+<SubTexture name="Nico Left0004" x="1901" y="1056" width="476" height="318" frameX="0" frameY="0" frameWidth="476" frameHeight="318" />
+<SubTexture name="Nico Left0005" x="2377" y="1056" width="455" height="318" frameX="0" frameY="0" frameWidth="455" frameHeight="318" />
+<SubTexture name="Nico Left0006" x="2832" y="1056" width="447" height="318" frameX="0" frameY="0" frameWidth="447" frameHeight="318" />
+<SubTexture name="Nico Left0007" x="3279" y="1056" width="443" height="318" frameX="0" frameY="0" frameWidth="443" frameHeight="318" />
+<SubTexture name="Nico Left0008" x="3722" y="1056" width="440" height="318" frameX="0" frameY="0" frameWidth="440" frameHeight="318" />
+<SubTexture name="Nico Left0009" x="0" y="1374" width="429" height="318" frameX="0" frameY="0" frameWidth="429" frameHeight="318" />
+<SubTexture name="Nico Left0010" x="429" y="1374" width="440" height="318" frameX="0" frameY="0" frameWidth="440" frameHeight="318" />
+<SubTexture name="Nico Left0011" x="869" y="1374" width="445" height="318" frameX="0" frameY="0" frameWidth="445" frameHeight="318" />
+<SubTexture name="Nico Left0012" x="1314" y="1374" width="450" height="318" frameX="0" frameY="0" frameWidth="450" frameHeight="318" />
+<SubTexture name="Nico Left0013" x="1764" y="1374" width="450" height="318" frameX="0" frameY="0" frameWidth="450" frameHeight="318" />
+<SubTexture name="Nico Left0014" x="2214" y="1374" width="448" height="318" frameX="0" frameY="0" frameWidth="448" frameHeight="318" />
+<SubTexture name="Nico Left0015" x="2662" y="1374" width="454" height="318" frameX="0" frameY="0" frameWidth="454" frameHeight="318" />
+<SubTexture name="Nico idle0000" x="3116" y="1374" width="502" height="351" frameX="0" frameY="0" frameWidth="502" frameHeight="351" />
+<SubTexture name="Nico idle0001" x="3618" y="1374" width="502" height="351" frameX="0" frameY="0" frameWidth="502" frameHeight="351" />
+<SubTexture name="Nico idle0002" x="0" y="1725" width="416" height="286" frameX="0" frameY="0" frameWidth="416" frameHeight="286" />
+<SubTexture name="Nico idle0003" x="416" y="1725" width="416" height="286" frameX="0" frameY="0" frameWidth="416" frameHeight="286" />
+<SubTexture name="Nico idle0004" x="832" y="1725" width="416" height="286" frameX="0" frameY="0" frameWidth="416" frameHeight="286" />
+<SubTexture name="Nico idle0005" x="1248" y="1725" width="416" height="286" frameX="0" frameY="0" frameWidth="416" frameHeight="286" />
+<SubTexture name="Nico Right0000" x="1664" y="1725" width="416" height="286" frameX="0" frameY="0" frameWidth="416" frameHeight="286" />
+<SubTexture name="Nico Right0001" x="2080" y="1725" width="416" height="286" frameX="0" frameY="0" frameWidth="416" frameHeight="286" />
+<SubTexture name="Nico Right0002" x="2496" y="1725" width="416" height="286" frameX="0" frameY="0" frameWidth="416" frameHeight="286" />
+<SubTexture name="Nico Right0003" x="2912" y="1725" width="416" height="286" frameX="0" frameY="0" frameWidth="416" frameHeight="286" />
+<SubTexture name="Nico Right0004" x="3328" y="1725" width="416" height="286" frameX="0" frameY="0" frameWidth="416" frameHeight="286" />
+<SubTexture name="Nico Right0005" x="0" y="2011" width="416" height="286" frameX="0" frameY="0" frameWidth="416" frameHeight="286" />
+<SubTexture name="Nico Right0006" x="416" y="2011" width="416" height="286" frameX="0" frameY="0" frameWidth="416" frameHeight="286" />
+<SubTexture name="Nico Right0007" x="832" y="2011" width="416" height="286" frameX="0" frameY="0" frameWidth="416" frameHeight="286" />
+<SubTexture name="Nico Right0008" x="1248" y="2011" width="416" height="286" frameX="0" frameY="0" frameWidth="416" frameHeight="286" />
+<SubTexture name="Nico Right0009" x="1664" y="2011" width="416" height="286" frameX="0" frameY="0" frameWidth="416" frameHeight="286" />
+<SubTexture name="Nico Right0010" x="2080" y="2011" width="416" height="286" frameX="0" frameY="0" frameWidth="416" frameHeight="286" />
+<SubTexture name="Nico Up0000" x="2496" y="2011" width="356" height="355" frameX="0" frameY="0" frameWidth="356" frameHeight="355" />
+<SubTexture name="Nico Up0001" x="2852" y="2011" width="345" height="355" frameX="0" frameY="0" frameWidth="345" frameHeight="355" />
+<SubTexture name="Nico Up0002" x="3197" y="2011" width="337" height="358" frameX="0" frameY="0" frameWidth="337" frameHeight="358" />
+<SubTexture name="Nico Up0003" x="0" y="2369" width="337" height="358" frameX="0" frameY="0" frameWidth="337" frameHeight="358" />
+<SubTexture name="Nico Up0004" x="337" y="2369" width="337" height="358" frameX="0" frameY="0" frameWidth="337" frameHeight="358" />
+<SubTexture name="Nico Up0005" x="674" y="2369" width="337" height="358" frameX="0" frameY="0" frameWidth="337" frameHeight="358" />
+<SubTexture name="Nico Up0006" x="1011" y="2369" width="337" height="358" frameX="0" frameY="0" frameWidth="337" frameHeight="358" />
+<SubTexture name="Nico Up0007" x="1348" y="2369" width="337" height="358" frameX="0" frameY="0" frameWidth="337" frameHeight="358" />
+<SubTexture name="Nico Up0008" x="1685" y="2369" width="337" height="358" frameX="0" frameY="0" frameWidth="337" frameHeight="358" />
+<SubTexture name="Nico Up0009" x="2022" y="2369" width="337" height="358" frameX="0" frameY="0" frameWidth="337" frameHeight="358" />
+<SubTexture name="Nico Up0010" x="2359" y="2369" width="337" height="358" frameX="0" frameY="0" frameWidth="337" frameHeight="358" />
+<SubTexture name="Nico Up0011" x="2696" y="2369" width="337" height="358" frameX="0" frameY="0" frameWidth="337" frameHeight="358" />
+<SubTexture name="Nico Up0012" x="0" y="2727" width="337" height="358" frameX="0" frameY="0" frameWidth="337" frameHeight="358" />
+<SubTexture name="Nico Up0013" x="337" y="2727" width="337" height="358" frameX="0" frameY="0" frameWidth="337" frameHeight="358" />
+<SubTexture name="Nico Up0014" x="674" y="2727" width="337" height="358" frameX="0" frameY="0" frameWidth="337" frameHeight="358" />
+<SubTexture name="Nico Up0015" x="1011" y="2727" width="337" height="358" frameX="0" frameY="0" frameWidth="337" frameHeight="358" />
+<SubTexture name="Nico Up0016" x="1348" y="2727" width="337" height="358" frameX="0" frameY="0" frameWidth="337" frameHeight="358" />
+</TextureAtlas>

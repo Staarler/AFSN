@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-190,
+				-447
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Nico Idle Dance"
+		},
+		{
+			"offsets": [
+				-158,
+				-384
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Nico Left"
+		},
+		{
+			"offsets": [
+				-230,
+				-431
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Nico Right"
+		},
+		{
+			"offsets": [
+				-215,
+				-488
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Nico Down"
+		},
+		{
+			"offsets": [
+				-148,
+				-342
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Nico Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Nico_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "nico",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		65,
+		255
+	],
+	"camera_position": [
+		150,
+		470
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

@@ -1,0 +1,48 @@
+{
+	"storyName": "It's a sno-day!",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Snowy-Scar",
+			"meme",
+			[
+				255,
+				60,
+				0
+			]
+		],
+		[
+			"Yeet-Encounter",
+			"magma",
+			[
+				255,
+				255,
+				140
+			]
+		],
+		[
+			"Prism",
+			"nico",
+			[
+				0,
+				53,
+				253
+			]
+		]
+	],
+	"weekName": "Custom Week"
+}

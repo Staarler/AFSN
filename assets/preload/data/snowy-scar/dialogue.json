@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bop bep beep (Who the fvck are you)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bop. (Answer me.)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "Beep bap bop pop (Since you don't talk then rap battle me you snow-shit.)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Boyfriend,don't be so rude!"
+		},
+		{
+			"speed": 0.06,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Shut the fvck up"
+		},
+		{
+			"speed": 0.11,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "demon",
+			"text": ". . ."
+		}
+	]
+}
